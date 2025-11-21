@@ -3,7 +3,7 @@ primary,
 secondary,
 success,
 info,
-warning,
+warning, #ffcc99
 danger,
 light,
 dark,
