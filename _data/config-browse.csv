@@ -3,5 +3,5 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,false
-length,,true
-submissions,,true
+length,Length,,,
+submissions,# of Submissions,,,
