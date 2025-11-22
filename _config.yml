@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Dancing Star Digital Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "Exploring the student arts publication, the Dancing Star"
+tagline: "Exploring the Dancing Star, an annual student arts publication"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection featuring 25 editions of the Dancing Star, the yearly student arts publication of the Collins Living Learning Center at Indiana Univeristy. Included are editions from 2000-2025 "
+description: "A collection featuring 25 editions of the Dancing Star, the yearly student arts publication of the Collins Living Learning Center at Indiana Univeristy. Included are editions from 2000-2025."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: dvesper729
 
