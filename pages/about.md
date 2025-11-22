@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-# *One must still have chaos in oneself to be able to give birth to a dancing star - Friedrich Nietzsche*
+#### *One must still have chaos in oneself to be able to give birth to a dancing star - Friedrich Nietzsche*
 
 This site hosts a collection of the *Dancing Star*, the yearly literary, visual, and audio art publication from the Collins Living Learning Center, a living community at Indiana University. The *Dancing Star* has been published annually since it's first edition in 1976. While it began written on a typewriter and put together by hand, it has since evolved over the years and today represents the artistic drive and talent of the students of Collins. Represented in this collection are the past 25 years of the *Dancing Star*, starting with the 1999-2000 edition. Documented for each edition is a high quality digital scan of the cover of the publication, the name of the student editor/designer(s) of that year, the length of the book, the various types of art included, as well as the total number of submissions. You are able to explore and browse by these various metadata elements, so please explore what the Dancing Star has to offer. While most editions are printed as traditional codices, not all are. Notable examples from within the collection include the 26th, 33rd, and 45th volumes. 
 
@@ -29,13 +29,13 @@ I lived in the Collins Living Learning Center from 2021-2025, all four years of 
 ## Technical Details
 Each Dancing Star in the collection is contained in a single PDF file, and accompanied by metadata covering the following fields:
 
--Title
--Format
--Creator
--Date
--Subject
--Length
--Submissions
+- Title
+- Format
+- Creator
+- Date
+- Subject
+- Length
+- Submissions
 
 You can download and browse all metadata for the project from the Data page, linked in the navigation bar above.
 
