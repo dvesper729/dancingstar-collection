@@ -8,16 +8,19 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="dancingstar-collection/objects/ds_2020.pdf" %}
+{% include feature/jumbotron.html objectid="ds_2020" %}
 
 {% include feature/nav-menu.html sections="About the Collection;Technical Details" %}
 
 ## About the Collection
+
+#*One must still have chaos in oneself to be able to give birth to a dancing star - Friedrich Nietzsche*
+
 This site hosts a collection of the *Dancing Star*, the yearly literary, visual, and audio art publication from the Collins Living Learning Center, a living community at Indiana University. The *Dancing Star* has been published annually since it's first edition in 1976. While it began written on a typewriter and put together by hand, it has since evolved over the years and today represents the artistic drive and talent of the students of Collins. Represented in this collection are the past 25 years of the *Dancing Star*, starting with the 1999-2000 edition. Documented for each edition is a high quality digital scan of the cover of the publication, the name of the student editor/designer(s) of that year, the length of the book, the various types of art included, as well as the total number of submissions. You are able to explore and browse by these various metadata elements, so please explore what the Dancing Star has to offer. While most editions are printed as traditional codices, not all are. Notable examples from within the collection include the 26th, 33rd, and 45th volumes. 
 
 The 26th volume is perhaps the most ambitious of all *Dancing Star*s to date, instead of being comprised of a single printed volume, it is instead made up of several different small booklets, a poster, and a plastic figurine, all contained in a carboard box. The 33rd volume takes another new approach to the format of the publication, instead being printed in an accordion style, attached together by threading a string through the center, wrapping it around the volume to bind it closed. The 45th volume is square, and folds out to lay flat, making a double-sided 5x4 square version of its compact form. While the unique tactile nature of these volumes are sadly lost in digitization, please keep them in mind as you explore the contents of the collection.
 
-{% include feature/pdf.html objectid="ds_2001" width="50" %}
+{% include feature/pdf.html objectid="ds_2002" width="50" %}
 {% include feature/pdf.html objectid="ds_2008" width="50" %}
 {% include feature/pdf.html objectid="ds_2021" width="50" %}
 
